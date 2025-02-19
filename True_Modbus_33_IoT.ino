@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 #include <ModbusMaster.h>
 
 // Define RS485 communication pins
